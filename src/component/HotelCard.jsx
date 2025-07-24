@@ -62,6 +62,7 @@ const HotelCard = ({ room, index }) => {
             4.5
           </div>
         </div>
+        {/*  */}
 
         <div className="flex items-center gap-2 text-sm">
           <img src={assets.locationIcon} alt="location" />
