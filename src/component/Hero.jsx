@@ -66,14 +66,14 @@ const Hero = () => {
             />
           </div>
 
-          <div className="flex md:flex-col gap-2 items-start">
+          <div className="flex md:flex-col  gap-2 items-start">
             <label htmlFor="guests">Guests</label>
             <input
               min={1}
               max={4}
               id="guests"
               type="number"
-              className="rounded border border-gray-200 px-3 py-1.5 mt-1.5 text-sm outline-none max-w-16"
+              className="rounded border border-gray-200 px-3 py-1.5  text-sm outline-none max-w-16"
               placeholder="0"
             />
           </div>
