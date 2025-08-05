@@ -5,7 +5,7 @@ const AddRoom = () => {
     <div>
       <h1>
 
-        jskjhasjjkhoiisjijdsj
+        
       </h1>
     </div>
   )
